@@ -1,0 +1,26 @@
+/*
+* Krissy Kanu
+* March 20, 2019
+* Table Project - Schedule */
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+
+}
+
+table, td, th { border: 1px solid lightblue; } /* this sets the border color to lightblue */
+
+table { border-collapse: collapse; } 
+
+thead { background-color: mistyrose; } /* colors the head section of the table */
+
+tbody { background-color: floralwhite;} /* colors the body section of the table */
+
+tfoot { background-color: skyblue; } /* colors the foot section of the table */
